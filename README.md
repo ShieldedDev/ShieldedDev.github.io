@@ -1,3 +1,3 @@
 # ShieldedDev.github.io
 Personal Portfolio
-[link](doc:https://ShieldedDev.github.io)
+[link](https://ShieldedDev.github.io)
